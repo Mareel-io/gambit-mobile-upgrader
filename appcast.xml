@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-    <channel>
-        <title>앱 업데이트</title>
-        <!-- Android -->
-        <item>
-            <title>v2.1.6</title>
-            <description>업데이트가 되었습니다!</description>
-            <pubDate>Wed, 06 Nov 2024 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.empo.mareel" sparkle:version="2.1.6" sparkle:os="android" />
-        </item>
-        <item>
-            <title>v2.1.5</title>
-            <description>업데이트가 되었습니다!</description>
-            <pubDate>Wed, 05 Nov 2024 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.empo.mareel" sparkle:version="2.1.5" sparkle:os="android" />
-        </item>
-    </channel>
+  <channel>
+    <title>Gambit VPN App - Appcast</title>
+    <item>
+      <title>Version 2.1.5</title>
+      <description>Bug fixes and performance improvements.</description>
+      <pubDate>Wed, 06 Nov 2024 12:00:00 +0000</pubDate>
+      <enclosure
+        url="https://play.google.com/store/apps/details?id=com.mareel.gambitvpn"
+        sparkle:version="2.1.5"
+        sparkle:os="android" />
+    </item>
+  </channel>
 </rss>
