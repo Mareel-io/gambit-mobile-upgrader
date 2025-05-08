@@ -3,16 +3,16 @@
   <channel>
     <title>Gambit VPN - Appcast</title>
     <item>
-      <title>Version 3.5.1</title>
+      <title>Version 3.5.0</title>
       <description>Bug fixes and performance improvements.</description>
       <pubDate>Tue, 29 Apr 2025 12:00:00 +0000</pubDate>
       <enclosure
         url="https://play.google.com/store/apps/details?id=com.empo.mareel"
-        sparkle:version="3.5.1"
+        sparkle:version="3.5.0"
         sparkle:os="android" />
       <enclosure
         url="https://apps.apple.com/app/gambit-gaming-vpn/id1643095048"
-        sparkle:version="3.5.1"
+        sparkle:version="3.5.0"
         sparkle:os="ios" />
     </item>
   </channel>
