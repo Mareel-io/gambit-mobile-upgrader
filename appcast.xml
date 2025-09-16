@@ -3,16 +3,16 @@
   <channel>
     <title>Gambit VPN - Appcast</title>
     <item>
-      <title>Version 3.5.8</title>
+      <title>Version 3.5.9</title>
       <description>Bug fixes and performance improvements.</description>
-      <pubDate>Sat, 30 Aug 2025 12:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Sep 2025 12:00:00 +0000</pubDate>
       <enclosure
         url="https://play.google.com/store/apps/details?id=com.empo.mareel"
-        sparkle:version="3.5.8"
+        sparkle:version="3.5.9"
         sparkle:os="android" />
       <enclosure
         url="https://apps.apple.com/app/gambit-gaming-vpn/id1643095048"
-        sparkle:version="3.5.8"
+        sparkle:version="3.5.9"
         sparkle:os="ios" />
     </item>
   </channel>
