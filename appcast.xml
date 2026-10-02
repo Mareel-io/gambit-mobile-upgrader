@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Gambit VPN - Appcast</title>
+    <!-- One item per OS: the upgrader package only reads the last enclosure in
+         an item, so android and ios must be separate items. -->
     <item>
-      <title>Version 3.8.3</title>
+      <title>Version 3.8.4</title>
       <description>Bug fixes and performance improvements.</description>
-      <pubDate>Fri, 26 Sep 2026 12:00:00 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure
         url="https://play.google.com/store/apps/details?id=com.empo.mareel"
-        sparkle:version="3.8.3"
+        sparkle:version="3.8.4"
         sparkle:os="android" />
+    </item>
+    <item>
+      <title>Version 3.8.4</title>
+      <description>Bug fixes and performance improvements.</description>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure
         url="https://apps.apple.com/app/gambit-gaming-vpn/id1643095048"
-        sparkle:version="3.8.3"
+        sparkle:version="3.8.4"
         sparkle:os="ios" />
     </item>
   </channel>
